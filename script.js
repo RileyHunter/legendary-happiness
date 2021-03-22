@@ -17,6 +17,10 @@ var phrases = [
     'You\'re beautiful on the inside. Trust me, I checked'
 ]
 
+phrases = [
+    'You guys make me feel like things are gonna be okay <3'
+]
+
 var contentDiv = document.getElementById('content');
 var content = phrases[Math.floor(Math.random() * phrases.length)];
 contentDiv.innerHTML = content;
