@@ -21,6 +21,7 @@ var phrases = [
     'You make me UwU',
     'If I had an imaginary friend it\'d probably still be you',
     'BEGIN TRANSACTION SELECT \'<3\' AS [Message To You] ROLLBACK',
+    'BEGIN TRANSACTION SELECT \'<3\' AS [Message To You] COMMIT',
     'Nice butt',
     'If we were two zombies I would sit in a boat with you',
     'MmmMMMMMmMMMMMMmMmnmMmMmmmmmMMMMM'
